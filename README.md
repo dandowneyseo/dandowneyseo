@@ -8,17 +8,19 @@ I build organic systems that rank without ads. SEO, AI automation, and local aut
 
 ## What I Build
 
-**[DanClaw](https://github.com/dandowneyseo/danclaw)** — Open-source AI agent for service businesses. Runs on Raspberry Pi. Connects to any LLM. No cloud dependency.
+**[DanClaw](https://danclaw.com)** — Open-source AI agent for service businesses. Runs on Raspberry Pi. Connects to any LLM. No cloud dependency. [GitHub](https://github.com/dandowneyseo/danclaw)
 
 **[Dan Downey Marketing](https://dandowneyseo.com)** — Local SEO domination, Google Business Profile optimization, entity stacking, AI-powered lead generation.
 
-**[Sacramento Mobile EV Charging](https://sacramentomobileevcharging.com)** — Emergency roadside EV charging. Real business, real revenue, real proof of concept.
+**[Sacramento Mobile EV Charging](https://sacramentomobileevcharging.com)** — Emergency roadside EV charging, Folsom/Sacramento. 127 rescues. $38,400 revenue. Zero paid ads.
+
+**[EV Road Hero — West Coast Operator Program](https://startmobileevcharging.com)** — Launch your own mobile EV charging business. EVroadHERO generator, territory exclusivity, training, SEO setup. 30 operators, one per city.
 
 ---
 
 ## Tech Stack
 
-`Node.js` `TypeScript` `Raspberry Pi` `AI/LLM Integration` `SEO Systems` `Google APIs` `Telegram/Discord Bots` `Local-First Architecture`
+`Node.js` `TypeScript` `Raspberry Pi` `AI/LLM Integration` `SEO Systems` `Google APIs` `Telegram/Discord Bots` `Local-First Architecture` `Shopify`
 
 ---
 
@@ -32,6 +34,6 @@ I build organic systems that rank without ads. SEO, AI automation, and local aut
 
 ## Contact
 
-- **Web:** [dandowneyseo.com](https://dandowneyseo.com) | [danclaw.ai](https://danclaw.ai)
+- **Web:** [danclaw.com](https://danclaw.com) | [dandowneyseo.com](https://dandowneyseo.com) | [sacramentomobileevcharging.com](https://sacramentomobileevcharging.com)
 - **Phone:** (916) 826-9410
 - **Email:** windowwash101@gmail.com
