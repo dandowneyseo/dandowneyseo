@@ -1,16 +1,37 @@
-## Hi there 👋
+# Dan Downey
 
-<!--
-**dandowneyseo/dandowneyseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder | Dan Downey Marketing | Sacramento Mobile EV Charging | DanClaw AI**
 
-Here are some ideas to get you started:
+I build organic systems that rank without ads. SEO, AI automation, and local authority for service businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Build
+
+**[DanClaw](https://github.com/dandowneyseo/danclaw)** — Open-source AI agent for service businesses. Runs on Raspberry Pi. Connects to any LLM. No cloud dependency.
+
+**[Dan Downey Marketing](https://dandowneyseo.com)** — Local SEO domination, Google Business Profile optimization, entity stacking, AI-powered lead generation.
+
+**[Sacramento Mobile EV Charging](https://sacramentomobileevcharging.com)** — Emergency roadside EV charging. Real business, real revenue, real proof of concept.
+
+---
+
+## Tech Stack
+
+`Node.js` `TypeScript` `Raspberry Pi` `AI/LLM Integration` `SEO Systems` `Google APIs` `Telegram/Discord Bots` `Local-First Architecture`
+
+---
+
+## Current Focus
+
+- Shipping DanClaw v1.0 — AI agents on Raspberry Pi for towing, roadside, and EV charging operators
+- Building the West Coast EV charging operator network (30 operators, 8 cities)
+- Organic ranking systems that replace paid ads entirely
+
+---
+
+## Contact
+
+- **Web:** [dandowneyseo.com](https://dandowneyseo.com) | [danclaw.ai](https://danclaw.ai)
+- **Phone:** (916) 826-9410
+- **Email:** windowwash101@gmail.com
